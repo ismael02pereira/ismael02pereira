@@ -17,7 +17,8 @@ During this development time, I am improving my skills in both front-end and bac
 
 # 📊 Github States
 
-![Ismael Pereir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismael02pereira&show_icons=true&theme=radical)                               ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismael02pereira&layout=compact&theme=radical)
+![Ismael Pereir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismael02pereira&show_icons=true&theme=radical)                              
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismael02pereira&layout=compact&show_icons=true&theme=radical)
 
 
 
